@@ -117,9 +117,9 @@ The Android application provides:
 - Emergency Warning Interface
 
 <p align="center">
-  <img src="Images/vehicle_ahead.jpg" width="30%" alt="Vehicle Ahead Alert" />
+  <img src="Images/vehicle_ahead.jpeg" width="30%" alt="Vehicle Ahead Alert" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/road_clear.jpg" width="30%" alt="Road Clear Status" />
+  <img src="Images/road_clear.jpeg" width="30%" alt="Road Clear Status" />
 </p>
 
 The application is designed using **Jetpack Compose** for a modern Android UI.
